@@ -2,7 +2,7 @@
 
 This repository contains the code and documentation for an Additive Manufacturing system implemented using a Fanuc LR Mate 200iD 6-axis robotic manipulator. The system is designed to perform 3D printing using a MK8 extruder, which is connected to the end effector of the robot using a custom-designed L bracket. The extruder includes a stepper motor for filament feeding, a heater coil, and a 0.4mm nozzle. The system is controlled by a Ramps 1.4 board connected to an Arduino Mega, which runs the Marlin firmware.
 
-![Additive Manufacturing](https://github.com/your-username/additive-manufacturing/images/additive_manufacturing.jpg)
+![Additive Manufacturing](https://github.com/your-username/additive-manufacturing/images/additivemanufacturing.jpg)
 > All project images and videos were taken by me unless stated otherwise.
 
 ## Index
