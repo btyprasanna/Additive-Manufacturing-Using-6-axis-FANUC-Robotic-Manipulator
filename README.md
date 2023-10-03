@@ -80,4 +80,4 @@ Calibrate the robot and the additive manufacturing system to ensure precise move
 - Start the 3D printing process by executing the robot program.
 - Monitor the printing progress and make any necessary adjustments to ensure successful printing.
 
-***Note:*** This repository is intended for educational and research purposes. Follow safety guidelines and precautions while working with the additive manufacturing system.
+***Note:*** This repository is intended for educational and research purposes. Follow safety guidelines and precautions while working with the autonomous system.
